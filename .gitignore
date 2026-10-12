@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ChromaDB runtime vector storage
+data/chroma_db/
+
+# Environment files
+.env
+
+# IDE & Editor caches
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log

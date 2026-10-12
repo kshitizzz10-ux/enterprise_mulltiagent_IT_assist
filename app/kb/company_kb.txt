@@ -1,0 +1,11 @@
+VPN Troubleshooting: If the enterprise VPN drops connection, please verify that your internet is stable. The secure backend corporate IP server is 192.168.1.100. If you receive Error 404, restart the client. If issues persist, submit a ticket for a Network Access Reset.
+
+Leave Policy: Full-time employees are entitled to 20 days of paid time off per calendar year. New hires accrue 1.67 days per month worked. Unused leave can carry over up to 5 days into the following calendar year.
+
+Password and Credential Policy: Passwords must be at least 14 characters long and contain uppercase letters, numbers, and symbols. Passwords expire every 90 days. Accounts lock after 5 failed attempts.
+
+Hardware Replacement and Repairs: Laptops are refreshed every 3 years. For cracked screens, defective keyboards, or broken power adapters, submit a Hardware Repair ticket immediately.
+
+Corporate Wi-Fi Setup: Connect to 'Corp-Secure-5G' using your single sign-on enterprise credentials. The internal diagnostics gateway is located at 10.0.0.1.
+
+Software Installation Guidelines: Employees may only install software approved by InfoSec via the Enterprise Self-Service Portal. For unlisted software licenses, an approved Software Access Request ticket is required.
